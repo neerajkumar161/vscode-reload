@@ -3,9 +3,14 @@
   "displayName": "Reload",
   "description": "Reload Code in Command Palette",
   "version": "0.0.1",
-  "repository": {
-    "url": ""
+  "author": {
+    "name": "Neeraj Kumar",
+    "email": "ennkay161@gmail.com"
   },
+  "repository": {
+    "url": "https://github.com/neerajkumar161/vscode-reload"
+  },
+  "license": "MIT",
   "engines": {
     "vscode": "^1.75.0"
   },
