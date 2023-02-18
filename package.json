@@ -1,6 +1,6 @@
 {
-  "name": "reload",
-  "displayName": "Reload",
+  "name": "command-palette-reload",
+  "displayName": "Command Palette Reload",
   "description": "Reload Code in Command Palette",
   "version": "0.0.1",
   "author": {
@@ -10,6 +10,7 @@
   "repository": {
     "url": "https://github.com/neerajkumar161/vscode-reload"
   },
+  "publisher": "neerajkumar161",
   "license": "MIT",
   "engines": {
     "vscode": "^1.75.0"
