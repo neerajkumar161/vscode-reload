@@ -2,7 +2,9 @@
   "name": "command-palette-reload",
   "displayName": "Command Palette Reload",
   "description": "Reload Code in Command Palette",
-  "version": "0.0.1",
+  "version": "0.0.2",
+  "icon": "images/icon.png",
+  "publisher": "neerajkumar161",
   "author": {
     "name": "Neeraj Kumar",
     "email": "ennkay161@gmail.com"
@@ -10,7 +12,6 @@
   "repository": {
     "url": "https://github.com/neerajkumar161/vscode-reload"
   },
-  "publisher": "neerajkumar161",
   "license": "MIT",
   "engines": {
     "vscode": "^1.75.0"
