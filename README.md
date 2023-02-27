@@ -1,5 +1,7 @@
 # Reload: Your VSCode window
 
+[Command Palette Reload](https://marketplace.visualstudio.com/items?itemName=neerajkumar161.command-palette-reload)
+
 This is simple Vscode Reload extension using command palette.
 
 Simply Open Command Palette by typing `Ctrl + Shift + P` in Linux and Windows
